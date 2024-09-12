@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Zinet Seid Ali 👋
 
-<!--
-**zizuali/zizuali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Programming student** currently studying at **Biruni University**. I have a passion for technology, and I'm always eager to learn new things in the programming world.
 
-Here are some ideas to get you started:
+### A little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying **Computer Programming** at **Biruni University**.
+- 💻 I love **programming** and constantly exploring new languages and technologies.
+- 🌊 Enjoy **swimming** in my free time.
+- 🎶 A big fan of **music** – it keeps me energized and focused!
+
+### Let's connect:
+
+- 📫 Reach me at [zinetseidalibeyan@gmail.com](mailto:zinetseidalibeyan@gmail.com)
+
+Thanks for stopping by!
